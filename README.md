@@ -1,2 +1,3 @@
 # hello-world
-first repository, practice
+"That's a one-way trip."
+"We all make it sooner or later."
